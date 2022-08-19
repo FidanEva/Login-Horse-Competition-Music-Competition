@@ -1,0 +1,16 @@
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\bin\Debug\WindowsFormsApplication4entrance.exe.config
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.csprojResolveAssemblyReference.cache
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.Form1.resources
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.Form2.resources
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.Properties.Resources.resources
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.csproj.GenerateResource.Cache
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\bin\Debug\WindowsFormsApplication4entrance.exe
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\bin\Debug\WindowsFormsApplication4entrance.pdb
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.exe
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.pdb
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\bin\Debug\Interop.WMPLib.dll
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\bin\Debug\AxInterop.WMPLib.dll
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\Interop.WMPLib.dll
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\AxInterop.WMPLib.dll
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.csproj.ResolveComReference.cache
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4entrance\WindowsFormsApplication4entrance\obj\Debug\WindowsFormsApplication4entrance.Form3.resources
